@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\be99eb45b880d4178ecf68baff6c0a3cc9baac7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5123545120f400af4326b06ca17c0067806e6a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\47c70741b5be825e99d0425b9062beebc50f19af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab0dcd1fc97e452c79687625df8ba79c19791f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\5ac795648b65187e33fa70a0055a055d77c003f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2bb0e8d9b625bcc34defee945baad40ff30f7c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbec601cd9be5951039ca4699a9a35fdd45b7202">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a52f1ba65931f049140b80094cbf1772731a268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5a95cb9cafc8ab0b720ddcf20e3b2341a9c7fcb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\7c928dfabd775dac516db6a5247d0f510d1d00d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f4b6cd3cc8cb98f7905b7db60ae1fe2ee9bc2e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\112989038102300e00baea7d9daf2a2abd6647a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_319bf1c3e77d8809dfa8e734199ea7ae7fd30d5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\fb224df3c7228fac3da3bc2ea33a8dded93e29ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da2f9548c5339eac36e705f740b6ab5c1f0ac6cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Altif\.android\build-cache\ce59991fb2b946b8ef12251bff4185d78e21215a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Altif\AndroidStudioProjects\Bradford_City_Run\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e5af9e51577e72d850d1b52a1d5eed36d5abc81\classes.dex" />
+    </item>
+
+</items>
